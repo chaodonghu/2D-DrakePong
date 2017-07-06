@@ -1,4 +1,4 @@
-## Pong Game - Drake Edition
+# Pong Game - Drake Edition
 
 Classic Pong game that works in browser with Drake memes as the ball!
 
@@ -7,6 +7,9 @@ Move your paddle with your mouse and play against an AI.
 Built using:
 * HTML5
 * Phaser
+
+## Demo
+https://chaodonghu.github.io/2D-DrakePong
 
 ## Project Screenshots
 ![](./assets/screenshot1.png)
