@@ -9,7 +9,7 @@ Built using:
 * Phaser
 
 ## Demo
-https://chaodonghu.github.io/2D-DrakePong
+https://chaodonghu.github.io/phaser_drake_pong/
 
 ## Project Screenshots
 ![](./assets/screenshot1.png)
